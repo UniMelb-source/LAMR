@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request xmlns="http://www.isinet.com/xrpc41" src="app.id=excel2007modified,env.id=xlsDev,partner.email=simon.porter@unimelb.edu.au"><fn name="LinksAMR.retrieve"><list><map><list name="WOS"><val>ut</val><val>doi</val><val>sourceURL</val></list></map><map></map></list></fn></request>

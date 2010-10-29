@@ -1,0 +1,12 @@
+extractXPath: /list/map
+resultInsertPoint: </map></list></fn></request>
+usernamePlaceHolder: usernameValue
+passwordPlaceHolder: passwordValue
+loginInsertPoint: <map><list name="WOS"><val>ut</val><val>doi</val><val>sourceURL</val></list></map>
+loginInsert: <map><val name="username">usernameValue</val><val name="password">passwordValue</val></map>
+outputCSVTitleThomson: ThomsonID
+outputCSVTitleThemis: ThemisID
+regexThomsonPattern: <val name="ut">\d*</val>
+regexThemisPattern: <map name="\d*">
+regexNoResultFoundPattern: <map name="\d*"><map name="WOS"><val name="message">No Result Found</val></map></map>
+outputShell: shell.xml
